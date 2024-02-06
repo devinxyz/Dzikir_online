@@ -1,0 +1,48 @@
+body {
+    background-color: 	#ddff00;
+    min-height: 800px;
+    
+  }
+  p {
+    font-size: 32px;
+    font-weight: bold;
+    
+  }
+  .click {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: 	#273036;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    font-size: 32px;
+    color: #fff;
+    
+  }
+  .click:hover {
+    box-shadow: 0px 0px 30px rgba(97,177,90,.4);
+   
+  }
+  .click:active {
+    top: 2px;
+    
+  }
+  #ulang {
+    font-size: 18px;
+    color: #273036;
+    cursor: pointer;
+    text-decoration: none !important;
+    
+  }
+  #ulang a:hover {
+    text-decoration: none !important;
+    color: steelblue;
+  
+  }
+  
+
+ 
+  
+ 
+ 
